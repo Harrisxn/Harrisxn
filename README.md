@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harrison</h1>
 <h3>A passionate frontend developer & 2d graphic designer from Melbourne, Australia.</h3>
+
 - 🌱 I’m currently learning **Computer Science at Swinburne University of Technology**
 
 - 👨‍💻 All of my projects are available at [https://harrisonfx.com/](https://harrisonfx.com/)
