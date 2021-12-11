@@ -1,4 +1,5 @@
-<h3>Hi! 👋<br>I'm Harrison<br>a Web Developer & Designer</h3>
+<h2>Hi! 👋 I'm Harrison</h2>
+
 <h6>I build <a href="https://harrisonfx.com/">websites</a> and design <a href="https://harrisonfx.com/portfolio">graphics</a>.<br>I have 7 years of tech experience, creating products, content and solutions while providing services.<br><a href="https://harrisonfx.com/contact">Contact me to get in touch now!</a></h6>
 
 <h3 align="left">Languages and Technologies:</h3>
